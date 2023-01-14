@@ -1,2 +1,2 @@
-# Serie_Programaci-n_2
+# Serie_Programacion_2
 Fundamentos de Programación
